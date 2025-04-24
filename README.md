@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Workshops & Talks:
+2025 - The talk at VigoTech community ["ChatGPT without hallucinations using the RAG architecture"](https://github.com/python-vigo/charlas/pull/63) 
+
