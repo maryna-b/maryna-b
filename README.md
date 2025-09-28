@@ -6,7 +6,7 @@ I’m an AI/ML Engineer with over 5 years of experience building smart solutions
 
 ⬇️⬇️⬇️ 
 
-💼 I’m looking for ML Engineer, AI Engineer and NLP Engineer roles.
+💼 I’m looking for AI/ML Engineer or NLP Engineer roles.
 
 🌎 I’m open to remote roles.
 
