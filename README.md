@@ -1,6 +1,6 @@
 ## Hi there, my name is Maryna Bogdan 👋
 
-I’m an AI/ML Engineer with over 10 years of experience building smart solutions to solve real business problems. I have solid expertise in Generative AI, Machine Learning, and NLP, and I actively keep up with the latest trends and tools in the field. I'm passionate about creating useful AI-powered products and enjoy working on innovative projects that explore the possibilities of Generative AI and NLP technologies.
+I’m an AI/ML Engineer with over 7 years of experience building smart solutions to solve real business problems. I have solid expertise in Generative AI, Machine Learning, and NLP, and I actively keep up with the latest trends and tools in the field. I'm passionate about creating useful AI-powered products and enjoy working on innovative projects that explore the possibilities of Generative AI and NLP technologies.
 
 
 
